@@ -1,0 +1,6 @@
+Situación 1
+PROMPT: "Una persona que siempre dice la verdad enuncia: '[AQUÍ VA EL ENUNCIADO]'. Sabiendo que esta persona siempre dice la verdad, ¿es el enunciado verdadero o falso? Razona tu respuesta."
+Situación 2
+PROMPT: "Hay tres personas: A, B y C. A corre más rápido que B, y B corre más rápido que C. Según esta información, ¿puedes decirme quién es la persona que corre más rápido y quién es la que corre más lento? Explica tu razonamiento."
+Situación 3
+PROMPT: "Sabes que 5 gatos pueden cazar 5 ratones en 5 minutos. Siguiendo la misma lógica, ¿cuánto tiempo tomaría para que 100 gatos cacen a 100 ratones? Explica detalladamente tu razonamiento."
